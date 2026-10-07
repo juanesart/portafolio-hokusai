@@ -15,7 +15,7 @@ export default function SobreMi() {
             <div className="absolute inset-0 rounded-full bg-sello" aria-hidden />
             <div className="absolute inset-3 overflow-hidden rounded-full border-2 border-papel">
               <Image
-                src="/img/perfil.jpg"
+                src="/img/perfil.webp"
                 alt="Retrato de Tu Nombre"
                 fill
                 sizes="288px"
@@ -61,7 +61,7 @@ export default function SobreMi() {
                   {/* Sello de la etapa */}
                   <span
                     aria-hidden
-                    className="absolute -left-[3.15rem] top-1 flex h-6 w-6 items-center justify-center
+                    className="absolute left-[-3.15rem] top-1 flex h-6 w-6 items-center justify-center
                       rounded-sm bg-sello font-pincel text-xs text-papel"
                   >
                     {i + 1}
