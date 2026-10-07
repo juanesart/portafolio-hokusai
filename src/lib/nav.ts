@@ -1,8 +1,8 @@
 export const nav = [
-  { id: "servicios", label: "Servicios", numero: "01" },
-  { id: "trabajos", label: "Trabajos", numero: "02" },
-  { id: "sobre-mi", label: "Sobre mí", numero: "03" },
-  { id: "contacto", label: "Contacto", numero: "04" },
+  { id: "servicios", label: "Servicios", numero: "一" },
+  { id: "trabajos", label: "Trabajos", numero: "二" },
+  { id: "sobre-mi", label: "Sobre mí", numero: "三" },
+  { id: "contacto", label: "Contacto", numero: "四" },
 ] as const;
 
 export const redes = [
