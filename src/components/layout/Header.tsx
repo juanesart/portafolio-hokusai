@@ -75,7 +75,7 @@ export default function Header() {
                 abierto ? "text-papel md:text-indigo" : ""
               }`}
             >
-              Tu Nombre
+              {datos.nombre}
             </span>
           </a>
 
