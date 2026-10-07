@@ -30,6 +30,6 @@ export const firmas: Firma[] = [
 
 export const stack = [
   { grupo: "Frontend", items: ["React", "Next.js", "TypeScript", "Tailwind CSS"] },
-  { grupo: "Backend", items: ["Node.js", "PostgreSQL", "Prisma", "REST"] },
-  { grupo: "Herramientas", items: ["Git", "Figma", "Vercel", "Docker"] },
+  { grupo: "Backend", items: ["Java", "SpringBoot", "PostgreSQL", "Prisma", "REST"] },
+  { grupo: "Tools", items: ["Git", "Figma", "Vercel", "Docker"] },
 ];
