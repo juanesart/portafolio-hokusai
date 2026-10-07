@@ -6,7 +6,7 @@ import { datos } from "@/data/dataPersonal";
 
 export default function SobreMi() {
   return (
-    <Section id="sobre-mi" numero="03" titulo="Sobre mí">
+    <Section id="sobre-mi" numero="三" titulo="Sobre mí">
       <div className="grid gap-16 md:grid-cols-[1fr_1.1fr]">
         {/* Columna izquierda */}
         <Reveal>

@@ -5,7 +5,7 @@ import { servicios } from "@/data/servicios";
 
 export default function Servicios() {
   return (
-    <Section id="servicios" numero="01" titulo="Servicios">
+    <Section id="servicios" numero="一" titulo="Servicios">
       <p className="mb-12 max-w-xl text-lg text-indigo/80">
         Cuatro vistas de mi trabajo: de la interfaz que ves al servidor que no ves.
       </p>

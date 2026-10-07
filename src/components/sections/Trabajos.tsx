@@ -14,7 +14,7 @@ const layout = [
 
 export default function Trabajos() {
   return (
-    <Section id="trabajos" numero="02" titulo="Trabajos">
+    <Section id="trabajos" numero="二" titulo="Trabajos">
       <p className="mb-12 max-w-xl text-lg text-indigo/80">
         Una selección de proyectos, presentados como un álbum de estampas.
       </p>

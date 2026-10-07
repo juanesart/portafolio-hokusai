@@ -5,7 +5,7 @@ import { redes } from "@/lib/nav";
 
 export default function Contacto() {
   return (
-    <Section id="contacto" numero="04" titulo="Contacto">
+    <Section id="contacto" numero="四" titulo="Contacto">
       <div className="grid gap-14 md:grid-cols-[1fr_1.2fr]">
         <Reveal>
           <p className="max-w-sm text-xl leading-relaxed">
